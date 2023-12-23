@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.5de1262f.css",
-    "main.js": "/static/js/main.0deb637c.js",
+    "main.js": "/static/js/main.1036aa3b.js",
     "static/js/787.2fb90ef8.chunk.js": "/static/js/787.2fb90ef8.chunk.js",
     "static/media/saiprit001.pdf": "/static/media/saiprit001.ea2f7d52f3e4884b6ab7.pdf",
     "static/media/green-hill-small.jpg": "/static/media/green-hill-small.704bdf0ee2f0a2d5e74a.jpg",
     "index.html": "/index.html",
     "main.5de1262f.css.map": "/static/css/main.5de1262f.css.map",
-    "main.0deb637c.js.map": "/static/js/main.0deb637c.js.map",
+    "main.1036aa3b.js.map": "/static/js/main.1036aa3b.js.map",
     "787.2fb90ef8.chunk.js.map": "/static/js/787.2fb90ef8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5de1262f.css",
-    "static/js/main.0deb637c.js"
+    "static/js/main.1036aa3b.js"
   ]
 }
