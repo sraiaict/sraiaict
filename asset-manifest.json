@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9355bc07.css",
-    "main.js": "/static/js/main.6452434a.js",
+    "main.css": "/static/css/main.d8a7d3f4.css",
+    "main.js": "/static/js/main.c014d7ac.js",
     "static/js/787.2fb90ef8.chunk.js": "/static/js/787.2fb90ef8.chunk.js",
     "static/media/saiprit001.pdf": "/static/media/saiprit001.ea2f7d52f3e4884b6ab7.pdf",
     "static/media/green-hill-small.jpg": "/static/media/green-hill-small.704bdf0ee2f0a2d5e74a.jpg",
+    "static/media/pic_trulli.jpg": "/static/media/pic_trulli.730ca34b7a69f31fd40b.jpg",
     "index.html": "/index.html",
-    "main.9355bc07.css.map": "/static/css/main.9355bc07.css.map",
-    "main.6452434a.js.map": "/static/js/main.6452434a.js.map",
+    "main.d8a7d3f4.css.map": "/static/css/main.d8a7d3f4.css.map",
+    "main.c014d7ac.js.map": "/static/js/main.c014d7ac.js.map",
     "787.2fb90ef8.chunk.js.map": "/static/js/787.2fb90ef8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9355bc07.css",
-    "static/js/main.6452434a.js"
+    "static/css/main.d8a7d3f4.css",
+    "static/js/main.c014d7ac.js"
   ]
 }
